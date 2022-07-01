@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/danewsroom-a-large-scale-danish-summarisation/abstractive-text-summarization-on-danewsroom)](https://paperswithcode.com/sota/abstractive-text-summarization-on-danewsroom?p=danewsroom-a-large-scale-danish-summarisation)
 <div id="top"></div>
 <div align="center">
     <img src="data/DALL·E 2022-05-31 16.23.40.png" alt="Logo" width="80" height="80">
